@@ -130,7 +130,7 @@ CreditScoreAnalysisTool
 1. Clone the repository
 
 ```
-git clone https://github.com/faizanGeek/CreditScoreAnalysisTool.git
+git clone https://github.com/ShekharReddyAlugubelli/CreditScoreAnalysisTool.git
 ```
 
 2. Navigate to each microservice
